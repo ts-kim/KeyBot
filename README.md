@@ -1,4 +1,7 @@
 # "Bones Can't Be Triangles: Accurate and Efficient Vertebrae Keypoint Estimation through Collaborative Error Revision"
+
+[<ins>__[Paper]__</ins>](https://ts-kim.github.io/KeyBot/) &nbsp; 
+&nbsp; 
 [[Project page]](https://ts-kim.github.io/KeyBot/)
 
 # Bibtex
