@@ -4,7 +4,7 @@
 &nbsp; 
 [[Project page]](https://ts-kim.github.io/KeyBot/)
 &nbsp; 
-[[Code]]([https://ts-kim.github.io/KeyBot/](https://github.com/seharanul17/keybot/))
+[[Code]](https://github.com/seharanul17/keybot/)
 
 # Bibtex
 ```
